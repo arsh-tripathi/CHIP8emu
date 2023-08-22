@@ -1,4 +1,4 @@
-#include "src/include/SDL2/SDL.h"
+#include "include/SDL2/SDL.h"
 #include <stdbool.h>
 #include <stdio.h>
 

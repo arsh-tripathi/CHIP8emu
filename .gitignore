@@ -1,6 +1,8 @@
 **/src/include/SDL2/
 **/src/lib/
-main.exe
+**.exe
 SDL2.dll
 .clang-format
 compile_flags.txt
+**.o
+**.d
