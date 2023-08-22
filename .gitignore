@@ -1,0 +1,5 @@
+./src/include/SDL2/
+./src/lib/
+./main.exe
+./SDL2.dll
+
