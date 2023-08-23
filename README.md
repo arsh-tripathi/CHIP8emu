@@ -1,7 +1,6 @@
-# CHIP-8 Emulator
+# GBA Emulator
 
-This is a CHIP-8 emulator that I am writing in C and SDL2.
-This is my first emulation project, so feedback is welcome.
+This is a GBA emulator that I am writing in C and SDL2.
 
 
 This is an ongoing project.
